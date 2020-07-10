@@ -15,5 +15,5 @@ public final class App {
         System.out.println("Hello World!");
     }
 }
-class BadNamr {
+class BadName2 {
 }
