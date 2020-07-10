@@ -12,7 +12,7 @@ class AppTest {
      * Rigorous Test.
      */
     @Test
-      void testApp() {
+        void testApp() {
         assertEquals(1, 1);
     }
 }
