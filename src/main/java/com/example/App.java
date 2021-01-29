@@ -7,6 +7,7 @@ public final class App {
     private App() {
     }
 
+    int a  = 1;
     /**
      * Says hello to the world.
      * @param args The arguments of the program.
